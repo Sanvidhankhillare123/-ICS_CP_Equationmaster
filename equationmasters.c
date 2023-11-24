@@ -2,12 +2,12 @@
 #include <math.h>
 void displayMenu()
 {
-    printf("Choose an option:\n");
-    printf("1. Solve Linear Equation\n");
-    printf("2. Solve Quadratic Equation\n");
-    printf("3. Solve System of Linear Equations\n");
-    printf("4. Exit\n");
-    printf("Enter your choice: ");
+    printf("choose an option:\n");
+    printf("1. solve linear equation\n");
+    printf("2. solve qadratic qeuation\n");
+    printf("3. solve system of linear equations\n");
+    printf("4. exit\n");
+    printf("enter your choice: ");
 }
 int main()
 {
